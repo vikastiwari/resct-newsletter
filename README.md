@@ -1,0 +1,2 @@
+# resct-newsletter
+Coursera project
